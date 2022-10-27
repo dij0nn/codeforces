@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
-public class cF
-{
+
+class Main  {
     public static void main(String args[]) throws IOException
     {
         Scanner scan = new Scanner(System.in);
